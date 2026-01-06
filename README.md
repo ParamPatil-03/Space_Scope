@@ -1,16 +1,84 @@
-# React + Vite
+# SpaceScope 🌌
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Explore, Learn & Stay Connected with the Universe.**
 
-Currently, two official plugins are available:
+SpaceScope is an interactive web platform designed to centralize real-time space information, educational content, and visualizations of how space technology benefits Earth.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![SpaceScope Dashboard](./public/vite.svg)
+*(Replace with actual screenshot)*
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. 🌌 Interactive Dashboard
+A breathtaking "Deep Space" themed landing page with:
+- Glassmorphic UI design.
+- Dynamic starfield background with twinkling animations.
+- Quick navigation to all platform modules.
 
-## Expanding the ESLint configuration
+### 2. 🗺️ Sky Events & Visibility
+- **Celestial Event Tracker**: Upcoming meteor showers, eclipses, and planetary alignments.
+- **Interactive Map**: Realistic **Night Earth** visualization showing where events are visible globally.
+- **Real-time Status**: Intensity and timing details for each event.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 3. ☀️ Cosmic Weather Station
+- Real-time simulated data dashboard for:
+  - Solar Wind Speed
+  - Geomagnetic Activity (Kp Index)
+  - Solar X-Ray Flux
+  - Aurora Forecasts
+
+### 4. ⏳ Mission Timeline
+- Interactive vertical timeline of space exploration.
+- Tracks **Past** (Apollo 11), **Present** (James Webb), and **Future** (Artemis II, Mars Return) missions.
+- Status indicators (Completed, Active, Scheduled).
+
+### 5. 🌍 Earth Impact
+- Visual demonstration of how satellites help Earth.
+- **Comparison Slider**: Interactive tool to compare "Before & After" satellite imagery of **Deforestation** vs **Reforestation**.
+- Use cases for Agriculture, Disaster Response, and Climate Monitoring.
+
+### 6. 🎓 Learning Zone
+- Educational hub for students and enthusiasts.
+- "Cosmic Fact of the Day".
+- Interactive modules on Black Holes, Solar System, and Space Tech.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: [React.js](https://reactjs.org/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Styling**: Vanilla CSS (Custom Design System, Glassmorphism)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Routing**: React Router DOM
+
+## 📦 Installation & Setup
+
+1. **Clone the repository** (or download source):
+   ```bash
+   git clone https://github.com/your-username/spacescope.git
+   cd spacescope
+   ```
+
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run Development Server**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in Browser**:
+   Visit `http://localhost:5173` to explore the universe!
+
+## 👥 Team
+
+- **[Member Name 1]** - Role
+- **[Member Name 2]** - Role
+- **[Member Name 3]** - Role
+- **[Member Name 4]** - Role
+
+---
+
+*Built with ❤️ for Space Lovers.*
