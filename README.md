@@ -74,10 +74,10 @@ A breathtaking "Deep Space" themed landing page with:
 
 ## 👥 Team
 
-- **[Member Name 1]** - Role
-- **[Member Name 2]** - Role
-- **[Member Name 3]** - Role
-- **[Member Name 4]** - Role
+- **[Joshua Perez]** 
+- **[Yadnika Patil]** 
+- **[Parth Patil]** 
+- **[Param Patil]** 
 
 ---
 
