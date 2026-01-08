@@ -56,7 +56,7 @@ A breathtaking "Deep Space" themed landing page with:
 1. **Clone the repository** (or download source):
    ```bash
    git clone https://github.com/your-username/spacescope.git
-   cd spacescope
+   cd webu
    ```
 
 2. **Install Dependencies**:
